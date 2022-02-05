@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiwot-wii
 - 👀 I’m interested in Web-Development,Cloud Computing and DevOps Engineering.
-- 🌱 I’m currently learning Software Engineering at AASTU University and taking course for Azure DevOps certification.
+- 🌱 I’m currently learning Software Engineering at AASTU and taking course for Azure DevOps certification.
 - 💞️ I’m looking to collaborate on Projects that require any Web-Development and where a DevOps and Cloud Computing involvement is needed.
 - 📫 How to reach me Gmail:-hbhiwotbogale@gmail.com.
 
